@@ -3,8 +3,9 @@
 ## Overview
 
 ### Purpose
-Analyzing the election data to provide a breakdown of which county had the largest number of votes, the winning candidate, and the allocation of vote percentage.  
+Analyzing the election data to provide a breakdown of which county had the largest number of votes, the winning candidate, and the allocation of vote percentage. 
 ---
+
 ### Results
 ![Election_Results](https://user-images.githubusercontent.com/101272613/162466570-195ebcad-ca37-45d4-a8b5-23c54938f7d2.png)
 
