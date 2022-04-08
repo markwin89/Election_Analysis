@@ -40,4 +40,4 @@ This code can be used for future elections to provide analytical data as the abo
 
 - Please use the same format as the CSV file "election_results.csv".  The header remains the same "Ballot ID, County, Candidate" with the new data added. 
 	- This will keep the code consistent for candidate_votes, candidate_name and county_name. 
-- If the CSV name is changed or folder, please update the path for file to load and to save. 
+- If the CSV name or folder is changed, please update the path for file to load and to save. 
