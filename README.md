@@ -14,10 +14,12 @@ Analyzing the election data to provide a breakdown of which county had the large
 	- Jefferson: 38,885 (10.5%)
 	- Denver: 306,055 (82.8%)
 	- Arapahoe: 24,801 (6.7%)
+
 ![County Votes](https://user-images.githubusercontent.com/101272613/162466689-e31e2c00-5eb0-4861-8013-078ade2dc870.png)
 ![County Votes1](https://user-images.githubusercontent.com/101272613/162467023-45945696-73c1-4b75-8428-0b2189873196.png)
 
 - County with the largest vote count: Denver
+
 ![County with Largest Turnout](https://user-images.githubusercontent.com/101272613/162476360-96e0a723-fa05-4441-8ab5-7c9823ee3368.png)
 
 - Candidate Votes Breakdown:
@@ -28,6 +30,7 @@ Analyzing the election data to provide a breakdown of which county had the large
 - Winning Candidate: Diana DeGette 
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
+- 
 ![Candidate Vote Results Breakdown and Winning Candidate](https://user-images.githubusercontent.com/101272613/162476469-d4c80118-d592-43b6-9d33-98c60985b44f.png)
 
 ---
