@@ -9,7 +9,7 @@ Analyzing the election data to provide a breakdown of which county had the large
 ![Election_Results](https://user-images.githubusercontent.com/101272613/162466570-195ebcad-ca37-45d4-a8b5-23c54938f7d2.png)
 
 - Total Votes Casted: 369,711
-- 
+
 - County Votes:
 	- Jefferson: 38,885 (10.5%)
 	- Denver: 306,055 (82.8%)
@@ -30,12 +30,11 @@ Analyzing the election data to provide a breakdown of which county had the large
 - Winning Candidate: Diana DeGette 
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
-- 
+
 ![Candidate Vote Results Breakdown and Winning Candidate](https://user-images.githubusercontent.com/101272613/162476469-d4c80118-d592-43b6-9d33-98c60985b44f.png)
 
 ---
 ### Summary
-
 This code can be used for future elections to provide analytical data as the above.  To do so please follow the below for updated info. 
 
 - Please use the same format as the CSV file "election_results.csv".  The header remains the same "Ballot ID, County, Candidate" with the new data added. 
